@@ -1,9 +1,9 @@
 # Numbeo API Java Example
 
-A small Java CLI application that queries the [Numbeo API](https://www.numbeo.com/common/api.jsp) to
-retrieve cost-of-living data for a given city and prints a formatted price table to the console.
-The documentation for the API is here: https://www.numbeo.com/api/doc.jsp
-While API key can be obtained here: https://www.numbeo.com/common/api.jsp this is also the main page for Numbeo API
+A small Java CLI application that queries the Numbeo API to retrieve cost-of-living data for a
+given city and prints a formatted price table to the console.
+API documentation: [Numbeo API Docs](https://www.numbeo.com/api/doc.jsp)
+API keys are obtained from the Numbeo API main page: [Numbeo API](https://www.numbeo.com/common/api.jsp)
 
 ## Features
 
