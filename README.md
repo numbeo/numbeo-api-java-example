@@ -2,6 +2,8 @@
 
 A small Java CLI application that queries the [Numbeo API](https://www.numbeo.com/api/) to
 retrieve cost-of-living data for a given city and prints a formatted price table to the console.
+The documentation for the API is here: https://www.numbeo.com/api/doc.jsp
+While API key can be obtained here: https://www.numbeo.com/common/api.jsp this is also the main page for Numbeo API
 
 ## Features
 
@@ -15,7 +17,7 @@ retrieve cost-of-living data for a given city and prints a formatted price table
 
 - **Java 8** or later
 - **Maven 3.x**
-- A valid [Numbeo API key](https://www.numbeo.com/common/api.jsp)
+- A valid Numbeo API key (https://www.numbeo.com/common/api.jsp)
 
 ## Project Structure
 
